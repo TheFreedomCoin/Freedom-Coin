@@ -1,0 +1,9 @@
+Building Freedomcoin
+
+See doc/readme-qt.rst for instructions on building Freedomcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Freedomcoin.
+
+See doc/build-*.txt for instructions on building Freedomcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Freedomcoin.

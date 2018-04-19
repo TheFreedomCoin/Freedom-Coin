@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="bitcoin-logo-noshadow.svg" inkscape:version="0.48.2 r9819"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="206 -116 1024 1024"
+	 style="enable-background:new 206 -116 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{display:inline;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{display:inline;fill:url(#SVGID_3_);}
+</style>
+<g class="st0">
+	<circle class="st1" cx="1506.2" cy="-103.8" r="353.1"/>
+	<g class="st2">
+		
+			<radialGradient id="SVGID_1_" cx="1754.0375" cy="924.0771" r="34.4319" gradientTransform="matrix(1.7655 0 0 -1.7655 -1550.9094 1424.3173)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F9AA4B"/>
+			<stop  offset="1" style="stop-color:#F7931A"/>
+		</radialGradient>
+		<path class="st3" d="M1505.6-245.7l-24.7,99c28,7,114.3,35.4,128.3-20.6C1623.8-225.7,1533.6-238.7,1505.6-245.7z"/>
+	</g>
+	<g class="st2">
+		
+			<radialGradient id="SVGID_2_" cx="1738.4956" cy="835.951" r="39.858" gradientTransform="matrix(1.7655 0 0 -1.7655 -1550.9094 1424.3173)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F9AA4B"/>
+			<stop  offset="1" style="stop-color:#F7931A"/>
+		</radialGradient>
+		<path class="st4" d="M1468.5-96.7l-27.2,109.2c33.6,8.3,137.3,41.6,152.6-19.9C1609.9-71.7,1502.1-88.3,1468.5-96.7z"/>
+	</g>
+	
+		<radialGradient id="SVGID_3_" cx="1732.5472" cy="864.5523" r="255.9973" gradientTransform="matrix(1.7655 0 0 -1.7655 -1550.9094 1424.3173)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F9AA4B"/>
+		<stop  offset="1" style="stop-color:#F7931A"/>
+	</radialGradient>
+	<path class="st5" d="M1617.2-540.5c-242.1-60.4-487.3,87-547.7,329.2c-60.4,242.1,87,487.4,329,547.7
+		c242.2,60.4,487.4-87,547.8-329.1S1859.4-480.1,1617.2-540.5z M1707.2-166.4c-6.5,44-30.9,65.3-63.3,72.8
+		c44.5,23.2,67.1,58.7,45.6,120.3c-26.8,76.5-90.4,82.9-174.9,66.9l-20.6,82.3l-49.6-12.4l20.3-81.1c-12.9-3.2-26-6.6-39.5-10.3
+		l-20.3,81.5l-49.5-12.4l20.5-82.4c-11.6-3-23.3-6.1-35.4-9.1L1276,33.6l24.6-56.8c0,0,36.5,9.7,36,9c14,3.5,20.3-5.7,22.7-11.8
+		l32.4-130l0.1-0.4l23.1-92.8c0.6-10.5-3-23.8-23.1-28.8c0.8-0.5-36-9-36-9l13.2-53l68.4,17.1l-0.1,0.3c10.3,2.6,20.9,5,31.7,7.4
+		l20.3-81.4l49.6,12.4l-19.9,79.9c13.3,3,26.7,6.1,39.7,9.4l19.8-79.3l49.6,12.4l-20.3,81.5C1670.4-258.9,1716.2-226.5,1707.2-166.4
+		z"/>
+</g>
+<image style="overflow:visible;" width="690" height="689" xlink:href="C:\Users\Naresh\Desktop\Layer 1.png"  transform="matrix(1.3212 0 0 1.3212 277.3249 -52.1461)">
+</image>
+</svg>
