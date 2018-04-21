@@ -1,25 +1,29 @@
-Freedomcoin Coin Specification
+Coin Name: The Freedom Coin 
 
-Coin Name : Freedomcoin Coin
+Algorithm: X11 
 
-Ticker : TFC
+Ticker: TFC Coin 
 
-Coin Type :  POS / Masternode
+Type: PoS/Masternode 
 
-MAXIMUM BLOCK SIZE : 3 MB
+POS: 10
+Masternode Reward: 10
 
-Block Time : 60 Sec Approx
+Masternode Collateral: 5000
 
-MINIMUM STAKE AGE : 24 Hr
+Block Size: 3 MB 
 
-Coin Maturity : 80
+Max Supply: 25,000,000 
 
-MAX SUPPLY : 21,000,000 Coins
+Premined: 26,625 %   (6 656 250 Premine Total)
 
-RPC Port: 4141
+Block Time: 60 Sec 
 
-Network Port: 4848
+Block Halving: -18% / Year 
 
-Find the Compiled Wallets here https://github.com/Freedomcoin/Wallet
+Block Reward : 20
 
-Wallet Masternode Setup Guides https://github.com/Freedomcoin/Wallet/wiki
+Min Stake Age: 24 Hours 
+
+Mainnet: P2P port 7118 
+RPC port 7117
